@@ -1,5 +1,3 @@
-#Project and Team Management 
-
 ### What is IT Project Management?
 
 "An IT project manager is a professional charged with overseeing the process of planning, executing and delegating responsibilities around an organization's information technology (IT) pursuits and goals."
