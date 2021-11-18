@@ -1,6 +1,6 @@
 # What is IOS App Devlopment 
 
-iOS App Development consists of making an application within the application _XCode_ and mainly using _Swift_ as the language for the program. 
+iOS App Development consists of making an application within the application [_XCode_](https://developer.apple.com/xcode/) and mainly using [_Swift_](https://developer.apple.com/swift/) as the language for the program. 
 
 #### Here are some examples of platforms you can create these applications on:
 * iPhone
@@ -9,3 +9,5 @@ iOS App Development consists of making an application within the application _XC
 * iPod
 * Apple TV
 * And many more Apple products!
+
+[Main Page](https://github.com/HaileyJessee/Markdown-Challenge)
