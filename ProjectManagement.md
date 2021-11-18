@@ -4,4 +4,4 @@
 
 Source: https://searchcio.techtarget.com/definition/IT-project-manager
 
-[Home](https://github.com/HaileyJessee/Markdown-Challenge)
+[Main Page](https://github.com/HaileyJessee/Markdown-Challenge)
